@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1569541471 source:c:\users\marcos96\desktop\utn fra\tp 2 laboratorio\tp2 laboratorio\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1569548990 source:c:\users\marcos96\desktop\utn fra\tp 2 laboratorio\tp2 laboratorio\entradas.c
+	"entradas.h"
+
+1569548896 c:\users\marcos96\desktop\utn fra\tp 2 laboratorio\tp2 laboratorio\entradas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1569549613 source:c:\users\marcos96\desktop\utn fra\tp 2 laboratorio\tp2 laboratorio\sectores.c
+	"sectore.h"
+
+1569547499 c:\users\marcos96\desktop\utn fra\tp 2 laboratorio\tp2 laboratorio\sectore.h
+	"Empleados.h"
+
+1569551026 c:\users\marcos96\desktop\utn fra\tp 2 laboratorio\tp2 laboratorio\empleados.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"sectore.h"
+	"entradas.h"
+
+1569551060 source:c:\users\marcos96\desktop\utn fra\tp 2 laboratorio\tp2 laboratorio\empleados.c
+	"Empleados.h"
+	"entradas.h"
+
+1570145192 source:e:\tp2 laboratorio\empleados.c
+	"Empleados.h"
+	"entradas.h"
+
+1570144096 e:\tp2 laboratorio\empleados.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"sectore.h"
+	"entradas.h"
+
+1570146796 e:\tp2 laboratorio\sectore.h
+	"Empleados.h"
+
+1569548898 e:\tp2 laboratorio\entradas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1569548992 source:e:\tp2 laboratorio\entradas.c
+	"entradas.h"
+
+1569549614 source:e:\tp2 laboratorio\sectores.c
+	"sectore.h"
+
+1570146944 source:e:\tp2 laboratorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"Empleados.h"
+
